@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOghQVlVQtgJBEjk6nQ/Y264rktnHr9SqKTUijzxhc9Czd53MRb6U0LLmuItQIGG50+MVlOqyyo/QNy1Mttp8A==",
+  "success": true,
+  "projectFilePath": "D:\\BKPs\\Lucas\\Back-End\\APIs\\APIs-Whodo\\Whodo.Authentication.Api\\src\\Doman\\Whodo.Authentication.Doman\\Whodo.Authentication.Doman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\5.0.15\\microsoft.aspnetcore.authentication.google.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
